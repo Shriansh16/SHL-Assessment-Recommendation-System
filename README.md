@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a comprehensive solution for extracting SHL product data, creating a searchable database, and providing an interactive recommender system for SHL assessments.
+This AI-powered solution helps hiring managers quickly find the most relevant SHL assessments for their open positions. By analyzing job descriptions or natural language queries, the system automatically recommends suitable assessments.
 
 ## Technical Approach
 
