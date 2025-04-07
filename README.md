@@ -4,6 +4,9 @@
 
 This AI-powered solution helps hiring managers quickly find the most relevant SHL assessments for their open positions. By analyzing job descriptions or natural language queries, the system automatically recommends suitable assessments.
 
+## Live Demo
+Access the deployed application here: https://shl-assessment-recommendationsystem.streamlit.app/
+
 ## Technical Approach
 
 ### Hybrid Search in RAG Applications
