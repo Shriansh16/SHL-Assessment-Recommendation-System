@@ -4,7 +4,7 @@ lxml
 streamlit
 streamlit-chat
 python-dotenv
-pinecone-client
+pinecone
 pinecone-text
 langchain
 nltk
